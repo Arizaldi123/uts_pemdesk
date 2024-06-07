@@ -1,0 +1,13 @@
+C:\Users\ahnpr\source\repos\UTSPemdesk\UTSPemdesk\obj\Debug\UTSPemdesk.vbproj.AssemblyReference.cache
+C:\Users\ahnpr\source\repos\UTSPemdesk\UTSPemdesk\obj\Debug\UTSPemdesk.Form1.resources
+C:\Users\ahnpr\source\repos\UTSPemdesk\UTSPemdesk\obj\Debug\UTSPemdesk.Form2.resources
+C:\Users\ahnpr\source\repos\UTSPemdesk\UTSPemdesk\obj\Debug\UTSPemdesk.Resources.resources
+C:\Users\ahnpr\source\repos\UTSPemdesk\UTSPemdesk\obj\Debug\UTSPemdesk.vbproj.GenerateResource.cache
+C:\Users\ahnpr\source\repos\UTSPemdesk\UTSPemdesk\obj\Debug\UTSPemdesk.vbproj.CoreCompileInputs.cache
+C:\Users\ahnpr\source\repos\UTSPemdesk\UTSPemdesk\bin\Debug\UTSPemdesk.exe.config
+C:\Users\ahnpr\source\repos\UTSPemdesk\UTSPemdesk\bin\Debug\UTSPemdesk.exe
+C:\Users\ahnpr\source\repos\UTSPemdesk\UTSPemdesk\bin\Debug\UTSPemdesk.pdb
+C:\Users\ahnpr\source\repos\UTSPemdesk\UTSPemdesk\bin\Debug\UTSPemdesk.xml
+C:\Users\ahnpr\source\repos\UTSPemdesk\UTSPemdesk\obj\Debug\UTSPemdesk.exe
+C:\Users\ahnpr\source\repos\UTSPemdesk\UTSPemdesk\obj\Debug\UTSPemdesk.xml
+C:\Users\ahnpr\source\repos\UTSPemdesk\UTSPemdesk\obj\Debug\UTSPemdesk.pdb
